@@ -104,7 +104,9 @@ Open-source, free-to-use, and instantly deployable.
 👨‍💻 Author
 
 D. Sai Srinivas Reddy
+
 B.Tech – Computer Science and Engineering
+
 Vignan’s LARA Institute of Technology and Science
 
 📬 Contact
