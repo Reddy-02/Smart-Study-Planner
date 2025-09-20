@@ -23,12 +23,19 @@ All data is persisted locally using LocalStorage, allowing instant deployment in
 🚀 Features
 
 ✔️ Task Manager (CRUD) – Tasks include title, subject/category, priority, estimated time, deadline, and notes.
+
 ✔️ Pomodoro Timer – Customizable work/break durations with start, stop, and reset controls.
+
 ✔️ Analytics Dashboard – Pie chart for task distribution, bar/line charts for time allocation, and dynamic progress bars.
+
 ✔️ Gamification – Daily streaks 🔥 and milestone badges 🎖️ to motivate users.
+
 ✔️ Voice Input – Add tasks using speech recognition for convenience.
+
 ✔️ Search & Filter – Find tasks quickly by title or subject, and filter by Active, Completed, or Due Today.
+
 ✔️ Theme Toggle – Smooth Light/Dark mode switch for comfortable viewing.
+
 ✔️ Advanced UI/UX – Glassmorphic design, hover effects, animations, empty-state illustrations, and responsive layouts for desktop, tablet, and mobile.
 
 🧠 Planner Logic
@@ -52,6 +59,7 @@ Time Spent per Subject/Category → Bar / Line Chart
 Overall Progress → Dynamic Progress Bar
 
 🛠️ Technologies Used
+
 | Purpose           | Tools / Libraries Used             |
 | ----------------- | ---------------------------------- |
 | Frontend Markup   | HTML5                              |
@@ -66,9 +74,13 @@ Overall Progress → Dynamic Progress Bar
 
 📁 Folder Structure
 Smart-Study-Planner/
+
 ├── index.html       # Main HTML file
+
 ├── styles.css       # Responsive stylesheet
+
 ├── app.js           # JavaScript logic: CRUD, analytics, gamification, theme toggle
+
 ├── README.md        # Project documentation
 
 📄 Project Documentation
